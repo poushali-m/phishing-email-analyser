@@ -1,0 +1,22 @@
+From: "PayPal Security" <security-alert@gmail.com>
+Reply-To: collect@evil-domain.ru
+To: victim@example.com
+Subject: URGENT: Your PayPal Account Has Been Suspended
+Date: Mon, 14 Apr 2026 09:00:00 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Dear Customer,
+
+URGENT: We have detected unusual activity on your PayPal account. Your account has been suspended immediately.
+
+You must verify your account within 24 hours or it will be permanently closed.
+
+Click here to confirm your identity and restore access:
+http://paypal.com.account-verify.suspicious-site.ru/login
+
+Please enter your password and card details to complete verification.
+
+Act now — this is your final warning.
+
+PayPal Security Team
